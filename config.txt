@@ -1,0 +1,65 @@
+{
+	"level1monsters":20,
+	"level2monsters":20,
+	"level3monsters":20,
+	"level4monsters":20,
+	
+	"level1initiateHealth":8,
+	"level1initiateCooldown":5,
+	"level1initiateBullets":10,
+	
+	"level1acolyteHealth":12,
+	"level1acolyteCooldown":5,
+	"level1acolyteBullets":12,
+	
+	"level1priestHealth":15,
+	
+	"level1bossHealth":50,
+	"level1bossFrequency":4,
+	"level1bossStrength":10,
+	
+	
+	"level2initiateHealth":10,
+	"level2initiateCooldown":5,
+	"level2initiateBullets":10,
+	
+	"level2acolyteHealth":14,
+	"level2acolyteCooldown":5,
+	"level2acolyteBullets":16,
+	
+	"level2priestHealth":15,
+	
+	"level2bossHealth":40,
+	"level2bossFrequency":4,
+	"level2bossStrength":5,
+	
+	
+	"level3initiateHealth":10,
+	"level3initiateCooldown":5,
+	"level3initiateBullets":14,
+	
+	"level3acolyteHealth":14,
+	"level3acolyteCooldown":5,
+	"level3acolyteBullets":18,
+	
+	"level3priestHealth":15,
+	
+	"level3bossHealth":35,
+	"level3bossFrequency":1,
+	"level3bossStrength":4,
+	
+	
+	"level4initiateHealth":12,
+	"level4initiateCooldown":3,
+	"level4initiateBullets":14,
+	
+	"level4acolyteHealth":16,
+	"level4acolyteCooldown":4,
+	"level4acolyteBullets":18,
+	
+	"level4priestHealth":16,
+	
+	"level4bossHealth":75,
+	"level4bossFrequency":10,
+	"level4bossStrength":0
+}
